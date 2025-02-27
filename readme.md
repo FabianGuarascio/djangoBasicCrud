@@ -6,7 +6,7 @@ You should need to have installed python and django
 pip install django
 ```
 ## Create Database
-First to create the dtabase run 
+First to create the database run 
 ```python
 python manage.py migrate
 ```
